@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Artiom Bondar</h1>
 
-<!--
-**ArtiomBondar99/ArtiomBondar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineering Graduate | Backend Developer
+</h3>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering graduate with experience in backend development, REST APIs, databases, authentication systems, and AI-driven projects.
+
+- 🔭 Building backend and AI-based applications
+- 🌱 Currently improving my skills in cloud deployment and scalable systems
+- 💼 Looking for a Junior Backend / Software Developer opportunity
+- 💡 Interested in Backend Development, AI, LLMs, and system architecture
+- 🥊 Former competitive boxer who represented my country in international competitions
+- 📍 Based in Israel
+
+<br>
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/artiom-bondar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:artiombondar8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
